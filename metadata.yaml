@@ -1,0 +1,35 @@
+_repo: Ovington-s-Bank_38990
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Weyman, Stanley John
+    alias: Weyman, Stanley J. (Stanley John)
+    birthdate: 1855
+    deathdate: 1928
+    gutenberg_agent_id: '742'
+    url: http://www.gutenberg.org/2009/agents/742
+    wikipedia: http://en.wikipedia.org/wiki/Stanley_J._Weyman
+description: Explore a fascinating period in history with this detailed and engaging
+  historical novel from prominent author Stanley J. Weyman. The novel unfolds against
+  the backdrop of the Panic of 1825, a crash that was caused in part by a massive
+  fraud set in Poyais, a made-up country in Latin America. Weyman masterfully weaves
+  the financial shockwave caused by this series of events into a tale that highlights
+  how the panic impacted real, salt-of-the-earth people.
+gutenberg_issued: '2012-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38990'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Banks and banking -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Love stories'
+title: Ovington's Bank
+url: http://www.gutenberg.org/ebooks/38990
